@@ -35,7 +35,7 @@ static let apiKey = "TMDB_API_KEY"
 - AutoLayout without StoryBoard
 - TMDB API
 - SDWebImage
-- MVVM 
+- MVC 
 - CollectionView and UISearchController
 
 
